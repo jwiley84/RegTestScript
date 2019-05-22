@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 dotnet add package Microsoft.Bot.Builder.ApplicationInsights --version 4.4.0-RC0 --source https://botbuilder.myget.org/F/botbuilder-v4-dotnet-daily/api/v3/index.json
 
+=======
+dotnet add package Microsoft.Bot.Builder.ApplicationInsights --version 4.4.0-RC0 --source https://botbuilder.myget.org/F/botbuilder-v4-dotnet-daily/api/v3/index.json
+
+>>>>>>> 730b7aea23457cc0044f4ea70d3184b0fff4d3f6
 dotnet add package Microsoft.Bot.Builder.Integration.ApplicationInsights.Core --version 4.4.0-RC0 --source https://botbuilder.myget.org/F/botbuilder-v4-dotnet-daily/api/v3/index.json
